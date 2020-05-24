@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "25531925967",
+    "firebase_url": "https://prueba-46a2a.firebaseio.com",
+    "project_id": "prueba-46a2a",
+    "storage_bucket": "prueba-46a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25531925967:android:23bef71781e587c23ebeba",
+        "android_client_info": {
+          "package_name": "com.example.futboolltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25531925967-7bb0v2psa6kfs7pkvk5d6i8rkchk70ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5U9H7JHDhyoJDzxNeI0Vd38Vtt5q6qvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25531925967-7bb0v2psa6kfs7pkvk5d6i8rkchk70ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
